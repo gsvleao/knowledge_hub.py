@@ -24,3 +24,4 @@ if ent == num:
     print('Parabéns! Você advinhou, seu Bruxão!')
 else:
     print('Not today, Jesus! Eu pensei em {}.'.format(num))
+    
