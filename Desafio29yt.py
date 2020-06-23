@@ -12,4 +12,3 @@ if velo <= 80:
     print('Tenha um bom dia! Dirija em segurança.')
 else:
     print('Você está acima do limite de velocidade permitido. Você foi multado em R${:.2f}.'.format(velo))
-
